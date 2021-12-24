@@ -1,0 +1,64 @@
+application: UPy_PyLib
+version: 1
+runtime: python
+api_version: 1
+handlers:
+- url: /.*
+ script: index01.py
+
+----------------------------------------
+
+git clone  https://github.com/GoogleCloudPlatform/php-docs-samples
+ls
+cd--------
+ls
+ python (insid the file)
+---------------------------------
+storg 
+
+git clone------
+ls
+cd -----
+ls
+composer install
+php -S localhost:8080
+
+ gcloud app deploy
+
+--------------------------------------
+
+Solution:   
+
+56 Gbps bandwidth = 56 * 2 30   b / s 
+
+                               = 7 x 2 30 Bytes / s      (since,  1 Byte = 8 bits) 
+
+Duration of transmission  = 35 x 2 50 Bytes / 7 x 2 30 Byte/s = 5  x  2 50 – 30    = 5 x 2 20  sec 
+
+= 5 * 1024 * 1024 
+
+= 5,242,880 s 
+
+= 87,381 m 
+
+= 1456 h 
+
+= 24.1 d  
+
+= Approx 24 days  
+
+It will take approximately 24 days 
+---------------------------------------------------------------------
+1 K Byte = 1024 = 2^10   Byte
+
+1 MByte = 2^20   Byte
+
+1 GB  = 2^10   Mbyte = 2^30 Byte
+1 TB  = 2^40   Byte
+1 PB  = 2^50   Byte
+1 ZB  = 2^60   Byte
+---------------------------------------
+
+ROI = [(Gain – Cost) / Cost]*100 %
+
+
